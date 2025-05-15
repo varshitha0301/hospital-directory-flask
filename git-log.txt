@@ -1,0 +1,4 @@
+* 8e655fa : Add final README.md for hospital directory project
+* b80ecc4 : Add final project report for hospital directory
+* 2ec8f5f : Cleaned requirements.txt for Render deployment
+* c8fe62f : Initial commit of hospital directory Flask app
